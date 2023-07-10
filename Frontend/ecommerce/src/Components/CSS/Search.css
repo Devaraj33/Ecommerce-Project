@@ -1,0 +1,26 @@
+.search_component{
+    margin-top: 60px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+}
+
+.search_button {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .search_button__icon {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search_button__icon:hover {
+    background-color: #0056b3;
+  }
+
+  

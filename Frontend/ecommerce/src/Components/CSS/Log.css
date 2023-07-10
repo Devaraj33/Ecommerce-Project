@@ -1,0 +1,56 @@
+
+
+
+.log{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+
+
+}
+
+
+
+.login_form{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    align-items: center;
+    border:1px solid black;
+    border-radius: 5px;
+    width: 30%;
+    gap: 20px;
+}
+
+.login_form input{
+    height: 50px;
+    width: 100%;
+    border: none;
+    padding-left: 15px;
+    border: 2px solid green;
+    border-radius: 10px;
+}  
+.login_form h2 {
+    color: rgb(0, 128, 0);
+  }
+.sub_btn{
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2874F0;
+    color: white;
+    
+}
+.login_form img{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 60px;
+    margin-top: 20px;
+}
+
